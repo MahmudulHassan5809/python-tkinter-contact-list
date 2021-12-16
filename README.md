@@ -9,6 +9,4 @@
 ## Run APP 
    * python3 contacts.py
 
-
-## Demo Link
-    * ![Demo](./demo.png)
+![Demo Image](./demo.png)
